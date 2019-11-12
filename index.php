@@ -1,3 +1,3 @@
 <?php
-echo "xin chao!";
+echo "xin chao!"
 ?>
